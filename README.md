@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sugunaravi
+- 👋 Hi, I’m Manjularavi
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning basics of Gen AI
 - 💞️ I’m looking to collaborate on ...
