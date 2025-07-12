@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Manjula
-- 👀 I recently completed my Bachelor's degree in Electronic & communication engineering.
+- 👀 I recently completed my Bachelor's degree in Electronics & communication engineering.
 - 🌱 I’m currently seeking for a role to apply my skills and knowledge. 
 - 💞️ I’m looking to collaborate to all.
 - 📫 How to reach me "sugunaravi0603@gmail.com"
-- 😄 Pronouns: 
+- 😄 Pronouns: ....
 - ⚡ Fun fact: ...
 
 <!---
