@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Manjularavi
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning basics of Gen AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m Manjula
+- 👀 I recently completed my Bachelor's degree in Electronic & communication engineering.
+- 🌱 I’m currently seeking for a role to apply my skills and knowledge. 
+- 💞️ I’m looking to collaborate to all.
+- 📫 How to reach me "sugunaravi0603@gmail.com"
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
